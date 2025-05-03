@@ -9,3 +9,10 @@ A clone of YouTube with an integrated AI Chat feature — built for the **Level 
 -  AI-powered video summaries and search help
 -  Chat UI that blends with YouTube interface
 -  Smooth and responsive web app
+
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript
+- React.js (for frontend)
+- OpenAI API / Gemini API (for AI chat)
+- GitHub Pages (for live hosting)
